@@ -2,12 +2,8 @@
 
 one:
   name: MyString
-  code: 1
-  avaliable: false
-  year: 1
+  age: 1
 
 two:
   name: MyString
-  code: 1
-  avaliable: false
-  year: 1
+  age: 1
